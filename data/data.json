@@ -1,0 +1,51 @@
+{
+    "data": {
+        "projects": [
+            {
+                "id": "0",
+                "project_name": "A Random Quote Generator",
+                "description": "This project will create a random quote and print it to the screen. Its purpose was to practice object literals, how functions work and to use eventlisteners.",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://ictdebrouwer.nl/techdegree-project-1",
+                "github_link": "https://github.com/lucdebrouwer/techdegree-project-1",
+                "image_urls": ["/static/img/project_1_screenshot_1.jpg","/static/img/project_1_screenshot_2.jpg","/static/img/project_1_screenshot_3.jpg"]
+            },
+            {
+                "id": "1",
+                "project_name": "List Pagination and Filtering",
+                "description": "A fun DOM manipulation project. In many applications we need to work with lists and filter those lists. In this project I have written logic that creates pagination links. And shows 10 students per page.",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://ictdebrouwer.nl/techdegree-project-2",
+                "github_link": "https://github.com/lucdebrouwer/techdegree-project-2",
+                "image_urls": ""
+            },
+            {
+                "id": "2",
+                "project_name": "Interactive Form",
+                "description": "In this project, I haved used JavaScript to enhance an interactive registration form for a fictional conference called 'FullStack Conf.'",
+                "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+                "live_link": "https://ictdebrouwer.nl/techdegree-project-3",
+                "github_link": "https://github.com/lucdebrouwer/techdegree-project-3-jquery",
+                "image_urls": ["/static/img/project_3_screenshot_1.jpg","/static/img/project_3_screenshot_2.jpg","/static/img/project_3_screenshot_3.jpg"]
+            },
+            {
+                "id": "3",
+                "project_name": "OOP Game Show App",
+                "description": "I created a browser-based, word guessing game: 'Phrase Hunter.' I've use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+                "technologies": ["HTML", "CSS", "OOP", "JavaScript"],
+                "live_link": "https://ictdebrouwer.nl/techdegree-project-4",
+                "github_link": "https://github.com/lucdebrouwer/techdegree-project-4",
+                "image_urls": ""
+            },
+            {
+                "id": "4",
+                "project_name": "Public API Requests",
+                "description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. I've used JavaScript, to create an employee directory by communicating with a third-party API (Application Programming Interface).",
+                "technologies": ["HTML", "CSS", "Fetch", "JavaScript", "API", "JSON"],
+                "live_link": "https://ictdebrouwer.nl/techdegree-project-5",
+                "github_link": "https://github.com/lucdebrouwer/techdegree-project-5",
+                "image_urls": ""                
+            }
+        ]
+    }
+}
