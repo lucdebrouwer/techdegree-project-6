@@ -8,7 +8,7 @@
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "live_link": "https://ictdebrouwer.nl/techdegree-project-1",
                 "github_link": "https://github.com/lucdebrouwer/techdegree-project-1",
-                "image_urls": ["/static/img/project_1_screenshot_1.jpg","/static/img/project_1_screenshot_2.jpg","/static/img/project_1_screenshot_3.jpg"]
+                "image_urls": ["/static/img/project_1_screenshot_0.jpg","/static/img/project_1_screenshot_1.jpg","/static/img/project_1_screenshot_2.jpg","/static/img/project_1_screenshot_3.jpg"]
             },
             {
                 "id": "1",
@@ -17,7 +17,7 @@
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "live_link": "https://ictdebrouwer.nl/techdegree-project-2",
                 "github_link": "https://github.com/lucdebrouwer/techdegree-project-2",
-                "image_urls": ""
+                "image_urls": ["/static/img/project_2_screenshot_0.jpg","/static/img/project_2_screenshot_1.jpg", "/static/img/project_2_screenshot_2.jpg","/static/img/project_2_screenshot_3.jpg"] 
             },
             {
                 "id": "2",
@@ -26,7 +26,7 @@
                 "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
                 "live_link": "https://ictdebrouwer.nl/techdegree-project-3",
                 "github_link": "https://github.com/lucdebrouwer/techdegree-project-3-jquery",
-                "image_urls": ["/static/img/project_3_screenshot_1.jpg","/static/img/project_3_screenshot_2.jpg","/static/img/project_3_screenshot_3.jpg"]
+                "image_urls": ["/static/img/project_3_screenshot_0.jpg","/static/img/project_3_screenshot_1.jpg","/static/img/project_3_screenshot_2.jpg","/static/img/project_3_screenshot_3.jpg"]
             },
             {
                 "id": "3",
@@ -35,7 +35,7 @@
                 "technologies": ["HTML", "CSS", "OOP", "JavaScript"],
                 "live_link": "https://ictdebrouwer.nl/techdegree-project-4",
                 "github_link": "https://github.com/lucdebrouwer/techdegree-project-4",
-                "image_urls": ""
+                "image_urls": ["/static/img/project_4_screenshot_0.jpg","/static/img/project_4_screenshot_1.jpg","/static/img/project_4_screenshot_2.jpg","/static/img/project_4_screenshot_3.jpg"]
             },
             {
                 "id": "4",
@@ -44,7 +44,7 @@
                 "technologies": ["HTML", "CSS", "Fetch", "JavaScript", "API", "JSON"],
                 "live_link": "https://ictdebrouwer.nl/techdegree-project-5",
                 "github_link": "https://github.com/lucdebrouwer/techdegree-project-5",
-                "image_urls": ""                
+                "image_urls": ["/static/img/project_5_screenshot_0.jpg","/static/img/project_5_screenshot_1.jpg","/static/img/project_5_screenshot_2.jpg","/static/img/project_5_screenshot_3.jpg"]                
             }
         ]
     }

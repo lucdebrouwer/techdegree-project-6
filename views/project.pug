@@ -7,6 +7,7 @@ block content
     .grid-x
       .cell.small-6.medium-9.large-9
 
+
         h1 #{ project_name }
 
         p.lead.text-light
@@ -23,5 +24,7 @@ block content
         a.button.expanded(href=`${github_link}`) GitHub Repo
     
        
-    each prjImg in image_urls
-     img.image(src= prjImg)
+    
+    img.image(src=`${image_urls[1]}`)
+    img.image(src=`${image_urls[2]}`)
+    img.image(src=`${image_urls[3]}`)
