@@ -11,7 +11,7 @@ router.get('/:id', (req, res, next) => {
     if(!projectId || isNaN) {
         const error = new Error('ID is missing!');
         error.status = 400;
-        next(error);
+        res.render('error', error.message, error.stack);
     }
     app.locals.project = projects[projectId];
     res.render('project', app.locals.project);

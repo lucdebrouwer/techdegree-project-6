@@ -21,7 +21,12 @@ app.use(function(req, res, next)  {
     const error = new Error("Not found!");
     error.status = 404;
     next(error);
-})
+});
+
+// app.use(function(req, res, next)  {
+//     const error = new Error('ID is missing or project does not exist on that ID!'); 
+//     error.status = 400;
+// });
 
 app.use((error, req, res, next) => {
     res.locals.error = error;
