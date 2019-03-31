@@ -1,6 +1,6 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Century', serif;
+  font-family: 'Century Gothic', serif;
 }
 
   h5{
@@ -31,7 +31,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #009ae8;
 }
 
 .button:hover{
@@ -58,14 +58,14 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #009ae8;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: #fff;
   }
 
   .portfolio-me a{
@@ -79,7 +79,7 @@ a:hover{
   }
 
   .portfolio-me a:hover{
-    color: #999;
+    color: #e27a0b;
   }
 
 .portfolio-breadcrumb{
@@ -147,4 +147,16 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+.pipe {
+  color: #e27a0b;
+}
+
+.cell h5 {
+  font-family: "Century Gothic";
+}
+
+.cell h5:hover {
+  color: #e27a0b;
 }
