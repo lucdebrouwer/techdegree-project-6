@@ -5,16 +5,10 @@ block content
     div
       h1 Portfolio | Luc de Brouwer
       p.lead.text-light
-        | In this project I've created a portfolio to show the development of my (JavaScript) skills over time. This portfolio contains five projects that were previously written in the Treehouse Fullstack JavaScript techdegree.
+        | Writing JavaScript is one of my favorite things to do. What started with watching videos about JavaScript eventually turned into creating projects with JavaScript. In my portfolio you will find unique JavaScript projects that are part of the fullstack JavaScript techdegree from Treehouse.
   article.grid-container.portfolio-index
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
-
-      //- Use the Pug `each` iterator to create a projet img, title and link in the markup for each of the projects you are showcasing.  
-      
-      //- Use a combination of interpolation and template literals as needed to dynamically generate the the routes in the href, as well as the img's src and the projects title.
-      
-      //- Here's what the Pug for each project example should look like. 
       each project in projects
        .cell
         a(href=`/project/${project.id}`)

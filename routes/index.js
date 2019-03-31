@@ -12,7 +12,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 router.get('/', (req, res) => {
     app.locals.data = data;
-    //res.send(projects);
     res.render('index', app.locals.data);
 })
 
