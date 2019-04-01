@@ -6,6 +6,8 @@ I made a few changes to the styles to make it look more appealing.
  * Font family changed to Century and Century gothic
  * about me.p background and live links are now blue of color instead of the default black color. 
 
+Please note that accessing projects start at /project/0 and not at /project/1. When navigating to a project that doesn't exist, the express application will render a custom 404 page saying the ID is missing or is wrong. The projects array starts at 0 instead of at 1 for development convenience. 
+
 ## Installation
 Make sure you're in a right directory, open up a command prompt that can run git commands.
 Clone the project.
