@@ -6,14 +6,13 @@ Clone the project.
 ```
 git clone https://github.com/lucdebrouwer/techdegree-project-1.git
 
+```
+## Serving the application
 Now you can use [npm](https://www.npmjs.com/) to install the necessary dependencies.
 
 ```
 npm install
 ```
-
-## Serving the application
-
 To run the application in production 
 ```
 npm start
