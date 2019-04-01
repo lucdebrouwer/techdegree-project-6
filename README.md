@@ -4,7 +4,7 @@
 Make sure you're in a right directory, open up a command prompt that can run git commands.
 Clone the project.
 ```
-git clone https://github.com/lucdebrouwer/techdegree-project-1.git
+git clone https://github.com/lucdebrouwer/techdegree-project-6.git
 
 ```
 ## Serving the application
