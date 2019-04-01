@@ -31,7 +31,7 @@
             {
                 "id": "3",
                 "project_name": "OOP Game Show App",
-                "description": "I created a browser-based, word guessing game: 'Phrase Hunter.' I've use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+                "description": "I created a browser-based, word guessing game: 'Phrase Hunter.' I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
                 "technologies": ["HTML", "CSS", "OOP", "JavaScript"],
                 "live_link": "https://ictdebrouwer.nl/techdegree-project-4",
                 "github_link": "https://github.com/lucdebrouwer/techdegree-project-4",
