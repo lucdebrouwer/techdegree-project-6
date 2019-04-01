@@ -1,6 +1,12 @@
 # A static NodeJS and Express Portfolio site
+This project is written to display the projects I have written so far throughout the Treehouse fullstack JavaScript techdegree. This project focusses on using NodeJS and Express to serve a static portfolio website.
 
-## installation
+I made a few changes to the styles to make it look more appealing.
+ * Most of the headers, anchors have an orange hover effect
+ * Font family changed to Century and Century gothic
+ * about me.p background and live links are now blue of color instead of the default black color. 
+
+## Installation
 Make sure you're in a right directory, open up a command prompt that can run git commands.
 Clone the project.
 ```
