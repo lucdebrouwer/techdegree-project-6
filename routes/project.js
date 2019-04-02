@@ -15,6 +15,7 @@ router.get('/:id', (req, res, next) => {
     if(!(projects[projectId])) {
         const error = new Error('ID is missing or not found');
         error.status = 400;
+        console.error(`An error occured on route ${req.originalUrl} with message: ${error.message} and status: ${error.status}`);
         next(error);
     } else {
         // Render the project if there is a matching ID

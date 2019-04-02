@@ -23,6 +23,7 @@ app.use('/project', projectRoutes);
 app.use(function(req, res, next)  {
     const error = new Error("Page is Not Found");
     error.status = 404;
+    console.error(`An error occured on route ${req.originalUrl} with message: ${error.message} and status: ${error.status}`);
     next(error);
 });
 
